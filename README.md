@@ -1,2 +1,2 @@
 # React + Vite
-# A smple Todo app built using react
+# A simple Todo app built using react
